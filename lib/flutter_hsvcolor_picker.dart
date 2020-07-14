@@ -1451,9 +1451,8 @@ class _AlphaPickerState extends State<AlphaPicker> {
     return new Column(
         mainAxisSize: MainAxisSize.min,
         children: <Widget>[
-
           //Alpha
-          this.buildTitle("A", super.widget.alpha.toString()),
+          this.buildTitle("Brightness", super.widget.alpha.toString()),
           new SliderPicker(
               value: super.widget.alpha.toDouble(),
               min: 0.0,
@@ -1485,7 +1484,7 @@ class AlphaTrackPainter extends CustomPainter  {
     }
 
     Rect rect = Offset.zero & size;
-    Gradient gradient = LinearGradient(colors: const[Colors.transparent, Colors.grey]);
+    Gradient gradient = LinearGradient(colors: const[Colors.black, Colors.white]);
     canvas.drawRect(rect, Paint()..shader = gradient.createShader(rect));
   }
 
