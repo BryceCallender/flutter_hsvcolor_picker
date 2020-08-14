@@ -2269,7 +2269,7 @@ class ColorPickerState extends State<ColorPicker> {
                   mainAxisSize: MainAxisSize.min,
                   children: <Widget>[
                     this._buildHead(),
-                    this._buildDropdown(),
+                    //this._buildDropdown(),
                     this._buildAlphaPicker(),
                   ]
               ),

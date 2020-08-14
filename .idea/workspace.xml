@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aa147fd-9da0-44e1-8c14-1a4c3b10c965" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.podspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_hsvcolor_picker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_hsvcolor_picker.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/flutter_hsvcolor_picker.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_hsvcolor_picker.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +13,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="415" />
-    <option name="y" value="-16" />
-    <option name="width" value="1650" />
-    <option name="height" value="1426" />
   </component>
   <component name="ProjectId" id="1ehGXoFFm4413rISA75catHgNFx" />
   <component name="ProjectViewState">
@@ -104,7 +90,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551416710765</updated>
-      <workItem from="1594766453946" duration="524000" />
+      <workItem from="1594766453946" duration="702000" />
+      <workItem from="1597436425628" duration="658000" />
     </task>
     <servers />
   </component>
@@ -112,21 +99,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1177" height="255" key="GridCell.Tab.0.bottom" timestamp="1594766977563">
-      <screen x="0" y="23" width="1680" height="959" />
+    <state x="181" y="102" key="CommitChangelistDialog2" timestamp="1597436821557">
+      <screen x="0" y="23" width="1680" height="957" />
     </state>
+    <state x="181" y="102" key="CommitChangelistDialog2/0.23.1680.957@0.23.1680.957" timestamp="1597436821557" />
+    <state width="1177" height="254" key="GridCell.Tab.0.bottom" timestamp="1597437085139">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state width="1177" height="254" key="GridCell.Tab.0.bottom/0.23.1680.955@0.23.1680.955" timestamp="1597436614099" />
+    <state width="1177" height="254" key="GridCell.Tab.0.bottom/0.23.1680.957@0.23.1680.957" timestamp="1597437085139" />
     <state width="1177" height="255" key="GridCell.Tab.0.bottom/0.23.1680.959@0.23.1680.959" timestamp="1594766977563" />
-    <state width="1177" height="255" key="GridCell.Tab.0.center" timestamp="1594766977563">
-      <screen x="0" y="23" width="1680" height="959" />
+    <state width="1177" height="254" key="GridCell.Tab.0.center" timestamp="1597437085138">
+      <screen x="0" y="23" width="1680" height="957" />
     </state>
+    <state width="1177" height="254" key="GridCell.Tab.0.center/0.23.1680.955@0.23.1680.955" timestamp="1597436614098" />
+    <state width="1177" height="254" key="GridCell.Tab.0.center/0.23.1680.957@0.23.1680.957" timestamp="1597437085138" />
     <state width="1177" height="255" key="GridCell.Tab.0.center/0.23.1680.959@0.23.1680.959" timestamp="1594766977563" />
-    <state width="1177" height="255" key="GridCell.Tab.0.left" timestamp="1594766977562">
-      <screen x="0" y="23" width="1680" height="959" />
+    <state width="1177" height="254" key="GridCell.Tab.0.left" timestamp="1597437085138">
+      <screen x="0" y="23" width="1680" height="957" />
     </state>
+    <state width="1177" height="254" key="GridCell.Tab.0.left/0.23.1680.955@0.23.1680.955" timestamp="1597436614098" />
+    <state width="1177" height="254" key="GridCell.Tab.0.left/0.23.1680.957@0.23.1680.957" timestamp="1597437085138" />
     <state width="1177" height="255" key="GridCell.Tab.0.left/0.23.1680.959@0.23.1680.959" timestamp="1594766977562" />
-    <state width="1177" height="255" key="GridCell.Tab.0.right" timestamp="1594766977563">
-      <screen x="0" y="23" width="1680" height="959" />
+    <state width="1177" height="254" key="GridCell.Tab.0.right" timestamp="1597437085139">
+      <screen x="0" y="23" width="1680" height="957" />
     </state>
+    <state width="1177" height="254" key="GridCell.Tab.0.right/0.23.1680.955@0.23.1680.955" timestamp="1597436614099" />
+    <state width="1177" height="254" key="GridCell.Tab.0.right/0.23.1680.957@0.23.1680.957" timestamp="1597437085139" />
     <state width="1177" height="255" key="GridCell.Tab.0.right/0.23.1680.959@0.23.1680.959" timestamp="1594766977563" />
   </component>
 </project>
